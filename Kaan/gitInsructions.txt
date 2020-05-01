@@ -1,0 +1,10 @@
+Install git and git bash
+open git bash to folder where you want project
+git clone <projecturl>
+cd Exp1
+git checkout develop
+cd Kaan
+make your changes
+git add .
+git commit -m "Commit message"
+git push
